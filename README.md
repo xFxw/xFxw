@@ -1,3 +1,9 @@
-- 👋 Hi, I’m @xFxw
-- 🌱 I’m currently learning : JS , LUA
-- 📫 How to reach me : Discord fxw.exe
+{
+ "title": "👋 Hi, I’m @xFxw",
+ "learning": "🌱 JS , LUA , HTML , CSS , MYSQL",
+ "level": "16",
+ "host": "🇹🇭",
+ "realms": ["play music", "listen to music", "Programming"],
+ "developer": "Fivem script",
+ "shop": "script shop > discord : https://discord.gg/cuqZyGDega",
+}
